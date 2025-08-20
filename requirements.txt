@@ -1,3 +1,7 @@
 Flask
 qrcode
 pillow
+gunicorn
+pandas
+opencv-python
+numpy
